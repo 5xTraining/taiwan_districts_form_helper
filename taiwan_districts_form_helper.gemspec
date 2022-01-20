@@ -4,11 +4,11 @@ Gem::Specification.new do |spec|
   spec.name          = "taiwan_districts_form_helper"
   spec.version       = TaiwanDistrictsFormHelper::VERSION
   spec.authors       = ["Kao Chien Lung"]
-  spec.email         = ["eddie@5xcampus.com"]
+  spec.email         = ["dev@5xcampus.com"]
 
   spec.summary       = %q{Form Helper for Taiwan regions, cities, and districts.}
   spec.description   = %q{Form Helper for Taiwan regions, cities, and districts.}
-  spec.homepage      = "https://kaochenlong.com"
+  spec.homepage      = "https://github.com/5xTraining/taiwan_districts_form_helper"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
